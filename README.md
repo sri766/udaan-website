@@ -1,2 +1,11 @@
 # udaan-website
 https://www.figma.com/file/4upbleD1u57zVyKuM3eMcS/Udaan?type=design&node-id=90-2&mode=design&t=qU9Ow07pM2vT5Cpz-0
+
+plane projects in google docs:
+https://docs.google.com/document/d/13n_r_tyDbL2ZSzfThB8j-rzBVvQi4N_wiBcl7ktzPbU/edit
+
+Drone projects in google docs:
+https://docs.google.com/document/d/1FwfOpy_cTcMy-3B076e3V6KW3YjIV7Zmr_K3_42PhEM/edit
+
+Rocket projects in google docs:
+https://docs.google.com/document/d/15-Df5LUt1HiTMr-bNMhd8-LvFfht1jOQqox_Ow-u3EQ/edit

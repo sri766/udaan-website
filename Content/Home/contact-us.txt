@@ -1,0 +1,10 @@
+president: 6371 873 931
+vice-president: 80184 36185
+PR head: 70775 03389
+
+insta: https://www.instagram.com/udaan_nitr/
+twitter: https://twitter.com/UdaanNitr/
+linkedin: https://www.linkedin.com/company/udaan-nitr/
+gmail: nitrudaan07@gmail.com
+youtube:
+facebook: 

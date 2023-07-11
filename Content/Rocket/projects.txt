@@ -1,0 +1,18 @@
+(completed projects)
+Water Rocket
+
+We at UDAAN have successfully built a soda bottle water rocket that utilizes water pressure as the propellant, resulting in thrilling and high-reaching flights. This project highlights the excitement and educational value of harnessing water pressure for propelling a homemade rocket into the sky. Our model consists of 2-liter plastic soda bottle serves as the main body providing a lightweight and airtight structure, a Nosecone which reduces aerodynamic drag and enhances stability, Fins, Nozzle (generates thrust), recovery system(parachute) etc. It demonstrates the concepts of action and reaction, aerodynamics, and Engg. design.
+
+
+Model Rockets
+
+This project showcases a model rocket powered by a rocket candy motor. It is designed and manufactured entirely by our team. The rocket motor utilizes potassium nitrate as an oxidizer and sugar (eg. Sucrose or Sorbitol) as fuel. When ignited, the mixture undergoes a controlled combustion process, releasing a large amount of gas and generating significant thrust. Also, we designed and built every part of the structure based on aerodynamic principles. Using software tools like OpenRocket, SolidWorks, and BurnSim, we meticulously designed and analysed our model rocket. These tools allowed us to simulate the rocket's flight dynamics, motor burn profile, and overall performance.
+
+(upcoming projects)
+Thrust Vector Control system
+
+We are working on a TVC (Thrust Vector Controller), which is a mechanism used in model rockets to control the direction of thrust during flight. It allows the rocket to change its orientation and adjust its flight path by deflecting the engine's exhaust gases. TVC systems are typically used in advanced model rockets and high-power rockets. Creating a TVC is a complex Engg. task, and we are using knowledge from various domains like: Rocket propulsion, Aerodynamics, Control Systems, Electronics and Programming etc. for building it. We are using electronic components such as Microcontrollers (like Arduino boards, Raspberry Pi), Sensors (gyroscopes, accelerometers), Actuators, Motor controllers, Communication Interfaces (to transmit telemetry data) etc.
+
+
+Piston Ejection system
+It is a mechanism used in model rockets to deploy recovery devices like parachutes or streamers at the apogee (maximum altitude reached). It operates by using a piston to forcefully push the recovery device out of the rocket's body, ensuring reliable and timely deployment. An ejection charge generates the force required to push the piston and deployment the recovery device. The ejection charge is ignited at the apogee of the rocket's flight, either by an electronic altimeter or a mechanical timer. We have worked on the 3d CAD design of the system and plan to work on an ignition mechanism such as an electric match or igniter to be used in our Piston ejection system.

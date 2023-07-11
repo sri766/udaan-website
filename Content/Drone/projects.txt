@@ -1,0 +1,35 @@
+(completed projects)
+UDN-MarK - F404
+
+About:UDN-MarK - F404 is designed for agile flight and smooth control this is equipped with powerful BLDC motors which provides tremendous amount of thrust to UDN-MarK - F404. Its lightweight and compact design makes it highly manoeuvrable, it's perfect for both indoor and outdoor flights.it is capable of lifting about 6 kgs of weight at its maximum throttle.
+Specifications:
+Flight controller:
+Frame size:
+Weight:
+Flight modes:
+
+
+UDN- FirebolT - F404
+
+About: FirebolT is designed for its speed. It is a perfect UAV for fpv racing or freestyle its sturdy construction ensures durability and resistance during high speed maneuvering.it is equipped with high definition camera mounted on it.this model is mainly constructed for racing and it will be participating in World Robotics Competition Technoxian 2023.
+Specifications:
+Flight controller:
+Frame size:
+Weight:
+Flight modes:
+
+
+(Upcoming Projects)
+
+UDN- Optimus prime
+
+About: Optimus is a highly advanced UAV that is specially engineered to capture other drones in mid air, neutralising potential threats with its precision and efficiency. This will be equipped with more sensors than a normal quad.this can be used when other drones are flying in restricted area.many autonomous features and specifications will be announced soon.
+
+UDN-Helicarrier
+
+About: Helicarrier will be engineered to tackle demanding logistics challenges. It will be able to lift and transport heavy loads with a very high accuracy. Not only the weight but it will be able to clutch any object with an irregular shape. Despite the load it will be remarkable for flying with stability and strength.the lifting process is completely done only by  Helicarrier no human interference will be noticed.
+
+
+UDN-VTOL
+
+About:UDN-VTOL with autonomous flight capabilities combines the advantages of vertical takeoff and landing with the efficiency of horizontal flight. Its onboard sensors, flight controller, and advanced control systems allow for autonomous operation, making it a powerful tool for various applications such as aerial surveying, mapping, cargo delivery, and more.

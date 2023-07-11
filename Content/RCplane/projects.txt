@@ -23,7 +23,6 @@ Wing loading:
 Whale 
 About:
 A huge plane that looks like a flying whale when it's in the air. It can carry a lot of cargo and has a tapered trailing edge that gives it the aerodynamic benefits of a longer wingspan without the extra weight and drag. The wing is set up like a parachute so it can lift more. 
-
 General specifications 
 Length : 
 CG       :
@@ -45,35 +44,29 @@ Wing loading:
 
 
 
-
 Surprise
 Surprise is the combination of slim and a cargo carrying capable plane which is  similar to its previous version NORA. This plane has a very redge fuselage made up from composite of wood and corrugated plastic. It has a long cord length which helps it to give more lift. 
-
 General specifications 
 Length : 
 CG       :
 Wingspan:
 Dry Weight:
-Wing loading
+Wing loading:
+
+
 
 
 UDN Glider
-/RC Glider –
+RC Glider –
 A radio-controlled (RC) glider is a remote-controlled aircraft designed to soar through the air using the power of wind and thermals. It is a sleek and lightweight aircraft with an aerodynamic design, allowing it to achieve long flight times and graceful gliding manoeuvres.
 RC gliders excel at soaring and riding thermals, which are columns of rising warm air. We can skill-fully exploit these thermals; glider can achieve long flight durations and cover considerable distances without the need for an onboard power source.
- 
-Uses of RC Glider –
-Recreation and Hobby: Many people enjoy flying RC gliders as a recreational activity and a hobby. It offers an immersive and relaxing flying experience, allowing individuals to spend time outdoors while enjoying the thrill of piloting an aircraft.
-Aerial Photography and Videography: RC gliders can be equipped with cameras or FPV (First Person View) systems to capture stunning aerial photographs and videos. The quiet and stable flight characteristics of gliders make them well-suited for capturing aerial footage in a smooth and cinematic manner.
-Scientific Research: RC Gliders are used in scientific research for various purposes. They can be employed to study atmospheric conditions, gather data on wind patterns, or monitor wildlife and ecosystems from an aerial perspective.
-Experimental Platforms: RC gliders provide a platform for experimentation and innovation. Hobbyists and researchers can modify and customize gliders to test new technologies, aerodynamic designs, or flight control systems.
- 
 
- 
- 
- 
- 
- 
+Uses of RC Glider –
+1.  Recreation and Hobby: Many people enjoy flying RC gliders as a recreational activity and a hobby. It offers an immersive and relaxing flying experience, allowing individuals to spend time outdoors while enjoying the thrill of piloting an aircraft.
+2.  Aerial Photography and Videography: RC gliders can be equipped with cameras or FPV (First Person View) systems to capture stunning aerial photographs and videos. The quiet and stable flight characteristics of gliders make them well-suited for capturing aerial footage in a smooth and cinematic manner.
+3.  Scientific Research: RC Gliders are used in scientific research for various purposes. They can be employed to study atmospheric conditions, gather data on wind patterns, or monitor wildlife and ecosystems from an aerial perspective.
+4.  Experimental Platforms: RC gliders provide a platform for experimentation and innovation. Hobbyists and researchers can modify and customize gliders to test new technologies, aerodynamic designs, or flight control systems.
+
 General Specification –
 Length: 120cm
 CG: About 45cm from Nose
@@ -82,26 +75,27 @@ Dry Weight: 1.5kg
 
 
 
+
 (upcoming project)
 
-FT EDGE 540
+1.  FT EDGE 540
 FT Edge 540 is a remote-controlled (RC) version of the full-scale Edge 540 designed by Flite Test. It retains its aerodynamic design, low-wing configuration, and symmetrical airfoil. We are taking this plane to compete in the World Robotics Competition Technoxian 2023.
 
-UDN Cargo Commander-1 (UDN CC-1)
+2.  UDN Cargo Commander-1 (UDN CC-1)
 Cardo Commander is the combination of a single motor and under-camber wing design in this RC cargo plane enables efficient cargo transportation, stable flight characteristics, and the ability to handle various payload sizes and weights.
 
 
-UDN-VTOL
+3.  UDN-VTOL
 UDN-VTOL with autonomous flight capabilities combines the advantages of vertical takeoff and landing with the efficiency of horizontal flight. Its onboard sensors, flight controller, and advanced control systems allow for autonomous operation, making it a powerful tool for various applications such as aerial surveying, mapping, cargo delivery, and more.
 
 
-SukhoiSu-30 UDN
+4.  SukhoiSu-30 UDN
 The Sukhoi Su-30 UDN captures the iconic design and aggressive appearance of the full-scale Su-30 fighter jet. It features a sleek, streamlined fuselage with swept-back wings and twin vertical stabilizers. The attention to detail in the model's construction and paint scheme accurately replicates the distinctive look of the Su-30.
 
 
-UDN-Amphibian 
+5.  UDN-Amphibian 
 The RC Amphibian is specifically designed to offer the capability of taking off and landing on both solid ground and water surfaces. It features a combination of design elements and features that allow for smooth transitions between land and water operations.
 
 
-UDN-View
+6.  UDN-View
 UDN-View is a air surveillance aircraft, the primary purpose of this aircraft is to gather visual or sensor-based data from the air. It may be used for applications such as aerial photography, videography, mapping, environmental monitoring, or even security and law enforcement purposes.
